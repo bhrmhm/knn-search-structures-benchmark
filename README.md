@@ -1,2 +1,20 @@
-# knn-search-structures-benchmark
-Research internship project - Empirical study of KD-Tree and Ball-Tree data structures for KNN  classification acceleration. Benchmarking query time, build time  and pruning efficiency across varying N, D and leaf size on synthetic and real-world datasets (MNIST, UCI Superconductivity).
+# KNN Search Structures Benchmark
+
+Practical study of KD-Tree and Ball-Tree acceleration for 
+k-nearest neighbor classification, developed as part of a 
+research internship.
+
+## Research Question
+Under what conditions (N, D, data structure) do KD-Tree and 
+Ball-Tree provide genuine speedup over brute-force KNN search?
+
+
+## Key Findings
+
+## Datasets
+
+## Structure
+
+
+## Tech Stack
+Python · NumPy · Scikit-learn · Matplotlib . Plotly
